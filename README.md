@@ -5,6 +5,7 @@
 
  [Data Source](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
 
+
  This project is for educational purposes, if you want to take it to production environments **300, 000** official **MRI** images are required, in addition to evaluate the metrics of each model implemented in this project.
 
 <hr>
@@ -35,6 +36,10 @@ The residual neural network includes the "skip by connection" feature that allow
 * [Feature Extraction and Convolutions](https://setosa.io/ev/image-kernels/)
 * [CNN Visualization](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html)
 
+<hr>
+
+### Results
+![Results](img/final.png)
 
 
 
